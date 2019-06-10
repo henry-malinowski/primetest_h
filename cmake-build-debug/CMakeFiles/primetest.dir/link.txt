@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Werror -lomp -fopenmp -lm -ffast-math -O2 -g   CMakeFiles/primetest.dir/main.c.o  -o primetest 

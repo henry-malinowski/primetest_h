@@ -1,0 +1,3 @@
+/home/henry/Programming_projects/primetest_h/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/henry/Programming_projects/primetest_h/cmake-build-debug/CMakeFiles/primetest.dir
+/home/henry/Programming_projects/primetest_h/cmake-build-debug/CMakeFiles/edit_cache.dir

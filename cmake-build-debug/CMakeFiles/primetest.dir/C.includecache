@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/henry/Programming_projects/primetest_h/main.c
+primetest.h
+/home/henry/Programming_projects/primetest_h/primetest.h
+stdio.h
+-
+omp.h
+-
+stdbool.h
+-
+inttypes.h
+-
+
+/home/henry/Programming_projects/primetest_h/primetest.h
+stdlib.h
+-
+stdint.h
+-
+math.h
+-
+
